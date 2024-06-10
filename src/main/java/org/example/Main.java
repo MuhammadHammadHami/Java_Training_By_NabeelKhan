@@ -20,8 +20,8 @@ public class Main {
 //        Task4 task4 = new Task4();
 //        task4.smallestNumber();
 
-//        Task5 task5 = new Task5();
-//        task5.task5();
+        Task5 task5 = new Task5();
+        task5.task5();
 
         System.out.println("Hello world! from Main class");
 
